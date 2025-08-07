@@ -1,4 +1,4 @@
-# To-Do List Application
+# To-Do List Web Application
 
 A simple To-Do List web application built using HTML, CSS, and JavaScript. This application allows users to create tasks, mark them as complete, delete tasks, and persist the tasks using the browser's local storage.
 
